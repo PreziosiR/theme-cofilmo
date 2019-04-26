@@ -1,0 +1,40 @@
+/*
+ Theme Name:   flat-child
+ Theme URI:    https://monsite.com
+ Description:  Ce thème est un thème enfant pour la socièté Cofilmo
+ Author:       PREZIOSI Romain
+ Author URI:   
+ Template:     flat
+ Version:      1.0.0
+*/
+
+/*footer du thème*/
+.site-info {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+
+}
+.site-info a{
+    color: white;
+    font-size: 14px;
+}
+
+
+#page {
+    border-radius: 10%;
+}
+
+.entry-title {
+    color: #a70521;
+    font-variant: small-caps;
+}
+
+#primary {
+    border-radius: 0 10px 10px 0;
+}
+
+#site-navigation a {
+    font-size: 16px;
+}
